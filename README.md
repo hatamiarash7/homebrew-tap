@@ -1,4 +1,4 @@
-# Arash homebrew tap
+# Arash Homebrew Taps
 
 My homebrew packages
 
@@ -10,3 +10,9 @@ To install a package:
 brew tap hatamiarash7/tap
 brew install <package>
 ```
+
+## Packages
+
+Package|Description
+---|---
+[dnstrace](https://github.com/hatamiarash7/dnstrace)|DNS resolution tracing tool
